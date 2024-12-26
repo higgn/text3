@@ -30,7 +30,7 @@ This project requires no installation for the frontend components. To run the ap
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/rishikreddycheruku/Hotel-Management-System.git
+   git clone https://github.com/url.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
